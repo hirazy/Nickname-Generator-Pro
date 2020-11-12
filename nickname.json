@@ -1,0 +1,29 @@
+{
+    "ads":{
+        "fb":{
+            "banner_setting":"",
+            "inter_setting":"",
+            "banner_main":"",
+            "inter_main":""
+        },
+        "admod":{
+            "banner_setting":"",
+            "inter_setting":"",
+            "banner_main":"",
+            "inter_main":""
+        }
+    },
+    "onlyAdmod":false,
+    "onlyFB":true,
+    "showAds":true,
+    "showMoreApp":true,
+    "apps":[
+        {
+            "name":"Siren",
+            "icon":"",
+            "s1":"",
+            "s2":"",
+            "s3":""
+        }
+    ]
+}
