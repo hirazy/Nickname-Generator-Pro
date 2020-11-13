@@ -1,18 +1,18 @@
 {
-    "ads":{
-        "fb":{
+    "ads":[
+        {
             "banner_setting":"test",
             "inter_setting":"",
             "banner_main":"",
             "inter_main":""
         },
-        "admod":{
+       {
             "banner_setting":"",
             "inter_setting":"",
             "banner_main":"",
             "inter_main":""
         }
-    },
+    ],
     "onlyAdmod":false,
     "onlyFB":true,
     "showAds":true,
