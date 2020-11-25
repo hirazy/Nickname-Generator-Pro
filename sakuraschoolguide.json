@@ -15,7 +15,7 @@
     ],
     "onlyAdmod":false,
     "onlyFB":true,
-    "showAds":false,
+    "showAds":true,
     "showMoreApp":false,
     "apps":[
         {
