@@ -1,10 +1,10 @@
 {
     "ads":[
         {
-            "banner_setting":"693259844943336_693260518276602",
-            "inter_setting":"693259844943336_693260851609902",
-            "banner_main":"693259844943336_693261064943214",
-            "inter_main":"693259844943336_693261184943202"
+            "banner_setting":"",
+            "inter_setting":"",
+            "banner_main":"",
+            "inter_main":""
         },
        {
             "banner_setting":"",
@@ -17,24 +17,5 @@
     "onlyFB":true,
     "showAds":true,
     "showMoreApp":true,
-    "apps":[
-        {
-            "link":"https://play.google.com/store/apps/details?id=com.ln.coffin.dance.meme.soundboard",
-            "content":"Coffin Dance | Meme Prank Soundboard",
-            "name":"Coffin Dance",
-            "icon":"https://play-lh.googleusercontent.com/tmiJC5LVtpwIWmn1WUXfDWc7cj0FbUVStnTWmguGSm5p1qB4LEcCXQMXWwsNOqbJ0-Ve=s180-rw",
-            "s1":"https://play-lh.googleusercontent.com/SfEI_Eqo59oLcqCTOmR028VJn-qa9KmI_yIu8hCR-mkXRCfcafvUtYuc5daavUyn5cM=w720-h310-rw",
-            "s2":"https://play-lh.googleusercontent.com/8IyiiRVA5uqjOgWOj0ne9oYZTAorobtaUNuU5QPLma3FTAiN5GF0euQ0vWGAZvHFpA=w1536-h755-rw",
-            "s3":"https://play-lh.googleusercontent.com/GNdL3NwHPLhAcblFUNR0CrG2o1ZYNP1S5r7PRagilfiQyh7opdRjs7-7jBpUc1dSpA=w1536-h755-rw"
-        },
-        {
-            "link":"https://play.google.com/store/apps/details?id=com.ln.sound.sirenhead.sound",
-            "content":"With This Siren Head voice app you can have fun with your friends.",
-            "name":"Siren Head Sound",
-            "icon":"https://play-lh.googleusercontent.com/UFcfr_jw8pQeWDfgLtH5Q8Pgez9qpEY53ExCxTCdT8i67__VKo-wj0lygREFxtt9dyw=s180-rw",
-            "s1":"https://play-lh.googleusercontent.com/wyhD9tQM69YaFBD0URT3s0mz8iP6iZGeSBQPCphhwfR2FHad_NHyF_vIDUmIphcJk1Cp=w1536-h755-rw",
-            "s2":"https://play-lh.googleusercontent.com/wBTqJdJO5UVbP0hNBrua7iDfnCzPxUVhyHE2hV7HYShcdrjeEOmOUSVcfni77R4EkQ=w720-h310-rw",
-            "s3":"https://play-lh.googleusercontent.com/rHnniosCvoic1uFpWDiXdF7ENtqfEQHWuw9i4BtF57-5xwPomvtie0Nho4TGRtdrRYk=w1536-h755-rw"
-        }
-    ]
+    "apps":[]
 }
